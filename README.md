@@ -1,7 +1,7 @@
 # Hello, World! 🌍👋
 
 I'm **Vaishali Vyas** (but you can call me **Vivy**)! 
-**Saayv Ilahsiav** is my brand name. Ask me about it and I'll tell you the story of its origin!
+**Sayv Ilahsiav** is my brand name. Ask me about it and I'll tell you the story of its origin!
 
 Welcome to my GitHub profile, a little corner of the internet where I explore, create, and share my passion for technology, science, and art. 🎨💻
 
