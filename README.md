@@ -10,7 +10,7 @@ Welcome to my GitHub profile, a little corner of the internet where I explore, c
 - 🎂 Born on March 4, 2001, in Bikaner, Rajasthan, India.
 - 🎓 Graduated in 2022 with a Bachelor's degree in Computer Application, specializing in Game and Mobile Software Development.
 - 📚 Lifelong learner with a deep love for Cognitive Science, Physics, Mathematics, Data Science, and UX Design.
-- 💖 Aspiring scientist, writer, and Flutter Developer.
+- 💖 Aspiring Flutter Developer, writer, and scientist.
 - 🌍 Dreaming of interacting with minds around the globe.
 - 🌟 Diagnosed with Autism, ADHD, and CPTSD.
 - 🌈 Panromantic Asexual | She/They.
@@ -19,11 +19,11 @@ Welcome to my GitHub profile, a little corner of the internet where I explore, c
 
 ### Flutter Development 📱
 
-I'm currently focusing on becoming a **Flutter Developer** and working on a gallery cleaning app that:
+I'm currently focusing on becoming a **Flutter Developer** and working on a top-secret project that:
 
-- 🖼️ Allows users to swipe and delete unwanted photos and videos.
-- 📅 Organizes the gallery month-wise and album-wise.
-- 📊 Provides statistics on cleaning patterns.
+- 🤫 Involves a unique approach to organizing and managing digital media.
+- 🧩 Combines intuitive user interactions with advanced functionality.
+- 📈 Provides insightful data to enhance user experience.
 
 ### Game and Mobile Software Development 🎮📱
 
@@ -60,10 +60,10 @@ I'm currently focusing on becoming a **Flutter Developer** and working on a gall
 
 ## Fun Facts 🎉
 
-- 📚 I love reading fantasy, sci-fi, history, and classical literarure books.
+- 📚 I love reading fantasy, sci-fi, history, and classical literature books.
 - 🚀 I'm fascinated by space and dream of living in Europe someday.
 - 🍰 I enjoy baking and trying new recipes in the kitchen.
-- 🎩 I have a whimsical sense of humor and enjoy adding a touch of magic to everything I do.
+- 🎩 I have a whimsical sense of humour and enjoy adding a touch of magic to everything I do.
 
 Thank you for visiting my profile! Let's create something amazing together! ✨🚀
 
