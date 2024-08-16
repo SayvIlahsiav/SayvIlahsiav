@@ -12,7 +12,7 @@ Welcome to my GitHub profile, a little corner of the internet where I explore, c
 - 📚 Lifelong learner with a deep love for Cognitive Science, Physics, Mathematics, Data Science, and UX Design.
 - 🦋 Aspiring Flutter Developer, writer, and scientist.
 - 🌍 Dreaming of interacting with minds around the globe.
-- 🧠 Diagnosed with Autism, ADHD, and CPTSD.
+- 🧠 Neurodivergent (AuDHD).
 - 🌈 Panrom Ace | She/They.
 
 ## My Passions and Projects 🎯
@@ -40,11 +40,6 @@ I'm currently focusing on becoming a **Flutter Developer** and working on a top-
 - 📖 Aspiring author of upcoming dystopian, fantasy, and contemporary fiction novels.
 - 🎨 Enjoys drawing and creating art.
 - 🎹 Learning to play the piano and planning to learn the violin.
-
-### Exercise and Healthy Living 🏋️‍♀️🥗
-
-- 💪 Dedicated to daily exercise routines, including skipping rope, bodyweight exercises, and mindfulness.
-- 🍲 Prioritizes healthy eating while being a non-vegetarian.
 
 ## My Skills 💡
 
