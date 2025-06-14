@@ -7,7 +7,7 @@ Welcome to my GitHub profile, a little corner of the internet where I explore, c
 
 ## About Me 🌟
 
-- 🎂 Born on March 4, 2001, in Bikaner, Rajasthan, India.
+- 🎂 Born on March 4, in India.
 - 🎓 Graduated in 2022 with a Bachelor's degree in Computer Application, specializing in Game and Mobile Software Development.
 - 📚 Lifelong learner with a deep love for Cognitive Science, Physics, Mathematics, Data Science, and UX Design.
 - 🦋 Aspiring Flutter Developer, writer, and scientist.
